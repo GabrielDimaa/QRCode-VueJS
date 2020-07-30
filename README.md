@@ -4,8 +4,10 @@
 <p align="justify"> Pequeno projetinho que permite o usuário de gerar um QRCode com qualquer coisa digitada no input. </p>
 
 ## Gerando o QRCode
-<div>
+<div style="text-align:center">
     <img src="https://github.com/GabrielDimaa/QRCode-VueJS/blob/master/Projeto%20QRCode/assets/print1.png" width="600px" height="340px"/>
+</div>
+<div style="text-align:center">
     <img src="https://github.com/GabrielDimaa/QRCode-VueJS/blob/master/Projeto%20QRCode/assets/print2.png" width="600px" height="340px"/>
 </div>
 
